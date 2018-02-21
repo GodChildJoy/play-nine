@@ -1,2 +1,0 @@
-# play-nine
-React game
